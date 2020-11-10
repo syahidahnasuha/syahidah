@@ -1,0 +1,8 @@
+# syahidah
+class square:
+    sidecount = 1.0
+    def_parameter_(self,side):
+        self.side = side;
+        
+        return side*4
+    print(side.count)
